@@ -1,18 +1,52 @@
-<h2>< 👋🏼 Hello, World! I'm Mohammed /></h2>
+<img src="./images/profile_header.png"/>
+<h2>< 👋🏼 Hello, I'm Mohammed Shaikh, Software Engineer /></h2>
 
-<!--
-**mqshaikh8/mqshaikh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p>Welcome to my GitHub profile! I'm a Software Engineer passionate about building efficient solutions with modern web technologies.</p>
 
-- 🔭 I’m currently working on a Gemini Quiz Application.
+Here are some the things I am proficient in:
+
+### 🛠 &nbsp;Languages
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Expo](https://img.shields.io/badge/-expo-05122A?style=flat&logo=expo)&nbsp;
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-05122A?style=flat&logo=rubyonrails)&nbsp;
+![Firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
+![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=dotnet&logoColor=092E20)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)&nbsp;
+![sqlite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![postgresql](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Node JS](https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=nodedotjs)&nbsp;
+...
+
+
+
+- 🔭 - 🔭 I’m currently working on a Gemini Quiz Application, building quizzes powered by Gemini AI. It will change the way people experience quizzes
     
-- 🌱 I’m currently learning ASP.NET.
+- 🌱 - 🌱 I’m currently learning advanced ASP.NET to develop scalable web applications.
 
-- 📫 How to reach me: [Email](mailto:mqshaikh8@gmail.com) - [LinkedIn](https://www.linkedin.com/in/mohammed-qasim-shaikh-597194161/)
+- 📫 Reach out to me: [Email](mailto:mqshaikh8@gmail.com) - [LinkedIn](https://www.linkedin.com/in/mohammed-qasim-shaikh-597194161/)
 
-- ⚡ Here are some corny tech jokes: ...
+### 🏅 &nbsp;Certifications
+
+- <Strong> Java for Programmers </Strong> - Educative
+  <br/>
+  <img src="./images/educative_java.png" alt="Educative Java Certification" width="150" />
+
+- <Strong> Java for Programmers </Strong> - Linkedin
+  <br/>
+  <img src="./images/linkedin_java_11.png" alt="Linkedin Java Certification" width="150" />
+
+- <Strong> React: State Management</Strong> - Linkedin
+  <br/>
+  <img src="./images/linkeding_react_2019.png" alt="Linkedin React Certification" width="150" />
+
+
+
+
+
+- ⚡ Thank you for making it this far, Here are some corny tech jokes: ...
 - <p> <h4> Why do programmers prefer dark mode? </h4> - Because the light attracts bugs! 🐛</p>
-
 
   <details>
     <summary><strong> More corny jokes</strong></summary>
@@ -29,23 +63,6 @@
         <li>
           <p> <h4> How do you comfort a JavaScript bug? </h4> - You console it! 😆</p>
         </li>
-        <li>
-          <p> <h4> Why did the developer go broke? </h4> - Because they used up all their cache! 💸</p>
-        </li>
-        <li>
-          <p> <h4> Why do computers love snacks? <h4> - Because they love a byte to eat! 🍪</p>
-        </li>
-        <li>
-          <p> <h4> What’s a computer’s favorite dance? </h4> - The algorithm shuffle! 💃 </p>
-        </li>
-        <li>
-          <p> <h4> Why did the developer stay calm during the crisis? </h4> - Because they had a good try-catch! 😎 </p>
-        </li>
-        <li>
-          <p> <h4> How do you organize a space party? </h4> - You planet! 🚀 </p>
-        </li>
-        <li>
-          <p> <h4> Why was the function feeling lonely? </h4> - Because it didn’t get any callbacks! 📞 </p>
-        </li>
       </ul>
   </details>
+
